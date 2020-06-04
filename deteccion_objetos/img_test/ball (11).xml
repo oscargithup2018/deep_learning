@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ball</folder>
+	<filename>ball (11).jpg</filename>
+	<path>C:\NOSYNC\ALLprojects\2020-1\deep\deteccion de imagenes\ball\ball (11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>241</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>33</ymin>
+			<xmax>115</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>33</ymin>
+			<xmax>204</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eggs</folder>
+	<filename>eggs (10).jpg</filename>
+	<path>C:\NOSYNC\ALLprojects\2020-1\deep\deteccion de imagenes\eggs\eggs (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>64</ymin>
+			<xmax>238</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

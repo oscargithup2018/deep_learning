@@ -1,0 +1,50 @@
+<annotation>
+	<folder>stones</folder>
+	<filename>stones (9).jpg</filename>
+	<path>C:\NOSYNC\ALLprojects\2020-1\deep\deteccion de imagenes\stones\stones (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>734</width>
+		<height>734</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>196</ymin>
+			<xmax>321</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>73</ymin>
+			<xmax>596</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>324</ymin>
+			<xmax>699</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

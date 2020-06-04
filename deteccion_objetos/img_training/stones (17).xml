@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stones</folder>
+	<filename>stones (17).jpg</filename>
+	<path>C:\NOSYNC\ALLprojects\2020-1\deep\deteccion de imagenes\stones\stones (17).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>64</ymin>
+			<xmax>381</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>
