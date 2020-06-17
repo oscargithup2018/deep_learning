@@ -1,0 +1,8 @@
+background
+dibujo_gato
+perro
+dibujo_gallina
+dibujo_perro
+None_of_the_above
+gato
+gallina
